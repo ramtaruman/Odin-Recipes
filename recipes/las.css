@@ -1,0 +1,14 @@
+.g1 {
+  align-items: center;
+  width: 50%;
+  justify-content: center;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: black;
+}
+
+p {
+  color: black;
+}
